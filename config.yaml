@@ -1,0 +1,6 @@
+port: 8080
+interface: 0.0.0.0
+interval: 30s
+urls:
+  - "http://example.com"
+  - "http://anotherexample.com"
